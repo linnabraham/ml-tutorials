@@ -47,6 +47,9 @@
             - [Intuition on Attention](https://youtu.be/eMlx5fFNoYc)
         - Convolutional neural networks
             - [What is convolution?](https://youtu.be/KuXjwB4LzSA)
+        - Frameworks
+            - Tensorflow - Chapter 7[^6]
+                - [Custom Models, Layers and Loss Functions](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow)
 
 
 [^1]: [Missing semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) Playlist on youtube
