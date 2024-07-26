@@ -6,10 +6,13 @@
     - [Git](https://www.youtube.com/watch?v=2sjqTHE0zok)
     - [Tmux](https://www.youtube.com/watch?v=e8BO_dYxk5c&t=881s)
     - Debugging and Profiling - Lecture 7[^1]
+    - [More things to know](https://youtu.be/LKCVKw9CzFo)
 - Computer Science
     - [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
 - Python
     - [Introduction to scientific packages](https://lectures.scientific-python.org/)
+        - [Numpy](https://youtu.be/3wQZf2Ph0q4?t=3864)
+        - [Matplotlib](https://youtu.be/ysAcU088qho&t=483)
     - Jupyter notebook IDE
         - [List of magics in jupyter-lab](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
     - Best practices
@@ -23,6 +26,8 @@
     - Kullback-Leibler (KL) divergence - Chapter 3.13[^8]
 - Statistics
     - Covariance - Chapter 2.4.2[^3]
+- Data visualization
+    - [Contour plots](https://www.youtube.com/watch?v=WsZj5Rb6do8)
 - Machine Learning
     - [Kernel Density Estimation](https://www.youtube.com/watch?v=t1PEhjyzxLA)
     - [What is Bayes theorem?](https://youtu.be/KuXjwB4LzSA)
@@ -50,7 +55,14 @@
         - Frameworks
             - Tensorflow - Chapter 7[^6]
                 - [Custom Models, Layers and Loss Functions](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow)
+        - [Large Language Models (LLMs)](https://youtu.be/3wQZf2Ph0q4?t=3864)
 
+    - [Astronomy](./astronomy.md)
+        - Python for astronomy
+            - [Astropy](https://youtu.be/jOwg5KG24xQ&t=1377s)
+            - [Tables](https://youtu.be/jOwg5KG24xQ&t=2645)
+            - [Tables (continued)](https://youtu.be/U-MEfHO0rFU)
+            - [World Coordinate System (WCS)](https://youtu.be/U-MEfHO0rFU&t=3010)
 
 [^1]: [Missing semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) Playlist on youtube
 [^2]: [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) by Christopher M. Bishop
