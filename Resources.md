@@ -26,6 +26,7 @@
     - Kullback-Leibler (KL) divergence - Chapter 3.13[^8]
 - Statistics
     - Covariance - Chapter 2.4.2[^3]
+    - [Skew and Kurtosis](https://www.youtube.com/watch?v=2m18yRb30AE)
 - Data visualization
     - [Contour plots](https://www.youtube.com/watch?v=WsZj5Rb6do8)
 - Machine Learning
